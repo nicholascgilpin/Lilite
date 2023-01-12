@@ -4,3 +4,4 @@ Install and Update the most common Your Linux Programs all at Once (Ninite Clone
 ## Goals
 1. A single page website where users can select which programs they want to install
 2. A typescript generator to create a bash installer script with the selected programs
+3. Bash install scripts for the top 20 most popular programs
